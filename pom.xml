@@ -46,7 +46,7 @@
         <dependency>
             <groupId>com.lenis0012.bukkit</groupId>
             <artifactId>lenisutils</artifactId>
-            <version>1.0</version>
+            <version>1.0.1</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
